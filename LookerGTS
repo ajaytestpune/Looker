@@ -1,4 +1,7 @@
-  - name: 'navigation_bar'
+    body_text: '<div style="display: flex; align-items: center; height: 60px;">
+
+
+- name: 'navigation_bar'
     type: text
     title_text: ''
     body_text: '<div style="padding: 10px 0;">
